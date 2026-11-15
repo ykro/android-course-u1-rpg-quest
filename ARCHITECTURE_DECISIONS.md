@@ -1,8 +1,6 @@
 # Decisiones de arquitectura — RPG Quest & Dice Tracker (Unidad 1)
 
-Responde con tus palabras y con ejemplos de tu propio código. Respuestas genéricas que podrían aplicar a cualquier proyecto reciben poco puntaje. Extensión sugerida: de 3 a 8 líneas por pregunta.
-
-Puntaje (15 puntos, revisión manual): preguntas 1 a 4, 10 puntos; tu regla en la sección 6 de `AGENTS.md` (pregunta 5), 2; declaración de uso de IA (pregunta 6), 1; y el checklist `SECURITY_AND_QUALITY.md`, 2.
+Responde con tus palabras y con ejemplos de tu propio código. Respuestas genéricas que podrían aplicar a cualquier proyecto no te sirven. Extensión sugerida: de 3 a 8 líneas por pregunta.
 
 ## 1. Qué estado va en la UI y cuál en el ViewModel
 
@@ -30,7 +28,7 @@ Clasifica al menos cuatro datos de tu app (por ejemplo: el grupo de dados, el mo
 
 ## 4. Tus tests propios
 
-Para cada test de `student/MyScenariosTest.kt`: ¿qué error plausible del reto atrapa? Describe un cambio concreto en `app/src/main/` (un mutante) que lo haría fallar.
+Para cada test de `student/MyScenariosTest.kt`: ¿qué error plausible del reto atrapa? Describe un cambio concreto en `app/src/main/` que lo haría fallar.
 
 **Tu respuesta:**
 
@@ -46,7 +44,7 @@ Copia la regla que agregaste a `AGENTS.md`. Describe qué generó el asistente d
 
 ## 6. Declaración de uso de IA
 
-Completa con transparencia; declarar el uso no resta puntos, ocultarlo sí.
+Completa con transparencia; declarar el uso de IA está bien; ocultarlo no.
 
 - Herramientas usadas (o "ninguna"):
 - Partes del trabajo en las que las usaste:

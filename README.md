@@ -29,4 +29,4 @@ Abre la raíz del repositorio en Android Studio y espera la sincronización de G
 
 El archivo `AGENTS.md` trae las reglas para el asistente de IA.
 
-El enunciado del reto, la rúbrica y la guía paso a paso están en el curso.
+El enunciado del reto, los criterios de «listo» y la guía paso a paso están en el curso.
